@@ -4,7 +4,9 @@ body{
 a{
     color: aliceblue;
     text-decoration: none;
-    display: block;
+    display: flex;
+    flex: space-around;
+    line-height: 1.5;
 }
 h1{
     text-align: center;
