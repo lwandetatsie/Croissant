@@ -1,9 +1,7 @@
 
 a{
-    text-decoration: aliceblue;
-    text-align: center !important;
-   display: flex;
-   flex: inline;
+    text-decoration: none !important;
+  color: pink !important;
 }
 h1{
     text-align: center;
