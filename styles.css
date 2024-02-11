@@ -1,6 +1,9 @@
 
 a{
-    color: aliceblue;
+    text-decoration: aliceblue;
+    text-align: center !important;
+   display: flex;
+   flex: inline;
 }
 h1{
     text-align: center;
@@ -12,9 +15,4 @@ img{
     margin: 5px;
     border-radius: 4px;
     display: block;
-}
-.d-inline-block{
- 
-    text-align: center !important;
-    text-decoration: aliceblue !important;
 }
