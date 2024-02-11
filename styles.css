@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+    display: block;
+}
+h1{
+    text-align: center;
+    font-size: 28px;
+}
+img{
+    width: auto;
+    padding: 0 auto;
+    margin: 5px;
+    border-radius: 4px;
+}
